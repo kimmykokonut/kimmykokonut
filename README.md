@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🌱 I'm currently learning Javascript at Epicodus Full-Stack Bootcamp in Portland, OR 🌱
+* Ask me about identifying mushrooms
+📫  How to reach me: www.linkedin.com/in/kimmykokonut
 <!--
 **kimmykokonut/kimmykokonut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
