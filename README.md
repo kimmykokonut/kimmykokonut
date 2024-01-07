@@ -1,4 +1,4 @@
-### Hi there 👋
+![Header](./github-header-image.png)\
 🌱 I'm currently learning Javascript and C# at Epicodus Full-Stack Bootcamp in Portland, OR 🌱\
 💬 Ask me about identifying mushrooms\
 📫  How to reach me: www.linkedin.com/in/kimmykokonut
