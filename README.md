@@ -1,7 +1,8 @@
 ![Header](./github-header-image.png)\
 🌱 I'm currently learning Javascript and C# at Epicodus Full-Stack Bootcamp in Portland, OR 🌱\
 💬 Ask me about identifying mushrooms\
-📫  How to reach me: www.linkedin.com/in/kimmykokonut
+📫  How to reach me: www.linkedin.com/in/kimmykokonut \
+JavaScript | React | Html | CSS | Bootstrap | MUI | Typescript | C# | .net
 <!--
 **kimmykokonut/kimmykokonut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
