@@ -1,8 +1,10 @@
 ![Header](./github-header-image.png)\
-🌱 I'm currently learning Javascript & C# at Epicodus Full-Stack Bootcamp in Portland, OR 🌱\
-💬 Ask me about identifying mushrooms\
+🌱 I'm nearing the end of my time at Epicodus Full-Stack Bootcamp in Portland, OR 🌱\
+💬 Ask me about identifying, growing and dyeing wool with mushrooms\
 📫  How to reach me: www.linkedin.com/in/kimmykokonut 
-
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmykokonut&layout=compact&langs_count=8&theme=transparent&hide_border=true)](https://github.com/kimmykokonut)
+<br />
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -23,7 +25,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
+<br />
+![profile views](https://komarev.com/ghpvc/?username=kimmykokonut&style=plastic&color=blueviolet)
 <!--
 **kimmykokonut/kimmykokonut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
