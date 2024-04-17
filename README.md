@@ -2,12 +2,15 @@
 
 🌱 I'm nearing the end of my time at Epicodus Full-Stack Bootcamp in Portland, OR 🌱\
 💬 Ask me about identifying, growing and dyeing wool with mushrooms\
-📫  How to reach me: www.linkedin.com/in/kimmykokonut 
+📫  How to reach me: www.linkedin.com/in/kimmykokonut 📫\
 🌱 I’m currently learning responsive web design and data visualization
 
 <br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmykokonut&layout=compact&langs_count=8&theme=transparent&hide_border=true)](https://github.com/kimmykokonut)
+
 <br />
+
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -36,6 +39,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 <br />
+
 ![profile views](https://komarev.com/ghpvc/?username=kimmykokonut&style=plastic&color=blueviolet)
 <!--
 **kimmykokonut/kimmykokonut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
