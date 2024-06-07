@@ -3,7 +3,7 @@
 🌱 I just graduated with a Certificate in Web and Mobile Development from Epicodus' Full-Stack Bootcamp in Portland, OR 🌱\
 ⚡ See my [portfolio](https://kimmykokonut.github.io/)\
 💬 Ask me about identifying, growing and dyeing wool with mushrooms\
-📫  Contact me: [www.linkedin.com/in/kimmykokonut](https://www.linkedin.com/in/robinson-kim/) 📫\
+📫  Contact me: [LinkedIn](https://www.linkedin.com/in/robinson-kim/) 📫\
 🌱 I’m currently learning responsive web design and data visualization
 
 <br />
