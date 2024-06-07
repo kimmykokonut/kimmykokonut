@@ -1,9 +1,9 @@
 ![Header](https://github.com/kimmykokonut/kimmykokonut/assets/55254544/f34c6a17-b5a4-4c29-bf0a-76b0741ba775)
 
-🌱 I'm nearing the end of my time at Epicodus Full-Stack Bootcamp in Portland, OR 🌱\
+🌱 I just graduated with a Certificate in Web and Mobile Development from Epicodus' Full-Stack Bootcamp in Portland, OR 🌱\
 ⚡ See my [portfolio](https://kimmykokonut.github.io/)\
 💬 Ask me about identifying, growing and dyeing wool with mushrooms\
-📫  Contact me: www.linkedin.com/in/kimmykokonut 📫\
+📫  Contact me: [www.linkedin.com/in/kimmykokonut](https://www.linkedin.com/in/robinson-kim/) 📫\
 🌱 I’m currently learning responsive web design and data visualization
 
 <br />
