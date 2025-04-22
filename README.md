@@ -4,11 +4,11 @@
 
 📫   Connect: [LinkedIn](https://www.linkedin.com/in/robinson-kim/) 📫 
 
-👯   Having fun working with the team at ChipDrop/Freeya as a Full-stack Developer playing with Vue, Typescript, Python and Django
+👯   Having fun working with the team at ChipDrop/Freeya as a Full-stack Developer playing with Vue, Typescript, Python, Django and Mapbox
 
 🌱   Certificate in Web and Mobile Development from Epicodus' Full-Stack Bootcamp in Portland, OR  🌱\
 💬   Ask me about identifying, growing and dyeing wool with mushrooms\
-🔭   Enjoying digging into all things Vue and maps
+🔭   Side learning: Ruby on Rails
 
 <br />
 
