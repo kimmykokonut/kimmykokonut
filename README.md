@@ -4,7 +4,7 @@
 
 📫   Connect: [LinkedIn](https://www.linkedin.com/in/robinson-kim/) 📫 
 
-👯   Having fun working with the team at ChipDrop/Freeya as a Full-stack Developer playing with Vue, Typescript, Python, Django and Mapbox
+👯   Having fun working with the team at Silverpine as a Full-stack Developer playing with all things mobile
 
 🌱   Certificate in Web and Mobile Development from Epicodus' Full-Stack Bootcamp in Portland, OR  🌱\
 💬   Ask me about identifying, growing and dyeing wool with mushrooms\
